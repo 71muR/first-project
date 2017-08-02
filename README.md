@@ -1,2 +1,4 @@
 # first-project
-learning how to use git and github
+
+Hello world,
+I created this project to understand how git and github works.
